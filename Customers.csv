@@ -1,0 +1,201 @@
+CustomerID,Gender,Age,Annual Income (ksh),Spending Score (1-100),Electronics,Food Items,Location,Location_ID
+1,Male,19,15,39,19,75,Nairobi CBD,1
+2,Male,21,15,81,26,98,Nairobi CBD,1
+3,Female,20,16,6,11,73,Nairobi CBD,1
+4,Female,23,16,77,24,93,Utawala,2
+5,Female,31,17,40,19,86,Nairobi CBD,1
+6,Female,22,17,76,18,5,Utawala,2
+7,Female,35,18,6,16,91,Nairobi CBD,1
+8,Female,23,18,94,21,107,Utawala,2
+9,Male,64,19,3,24,2,Utawala,2
+10,Female,30,19,72,16,37,Nairobi CBD,1
+11,Male,67,19,14,13,101,Roysambu,3
+12,Female,35,19,99,6,93,Westlands,5
+13,Female,58,20,15,24,42,Westlands,5
+14,Female,24,20,77,19,58,Utawala,2
+15,Male,37,20,13,18,7,Utawala,2
+16,Male,22,20,79,8,13,Roysambu,3
+17,Female,35,21,35,7,1,Nairobi CBD,1
+18,Male,20,21,66,7,95,Westlands,5
+19,Male,52,23,29,17,76,Westlands,5
+20,Female,35,23,98,25,33,Nairobi CBD,1
+21,Male,35,24,35,11,74,Nairobi CBD,1
+22,Male,25,24,73,10,84,Utawala,2
+23,Female,46,25,5,22,18,Nairobi CBD,1
+24,Male,31,25,73,23,11,Utawala,2
+25,Female,54,28,14,14,23,Utawala,2
+26,Male,29,28,82,6,18,Roysambu,3
+27,Female,45,28,32,15,18,Roysambu,3
+28,Male,35,28,61,24,105,Kilimani,4
+29,Female,40,29,31,26,91,Utawala,2
+30,Female,23,29,87,7,29,Kilimani,4
+31,Male,60,30,4,16,35,Kilimani,4
+32,Female,21,30,73,7,35,Kilimani,4
+33,Male,53,33,4,6,14,Nairobi CBD,1
+34,Male,18,33,92,23,23,Kilimani,4
+35,Female,49,33,14,27,48,Roysambu,3
+36,Female,21,33,81,23,15,Westlands,5
+37,Female,42,34,17,17,50,Kilimani,4
+38,Female,30,34,73,11,25,Utawala,2
+39,Female,36,37,26,24,32,Roysambu,3
+40,Female,20,37,75,21,67,Nairobi CBD,1
+41,Female,65,38,35,10,107,Nairobi CBD,1
+42,Male,24,38,92,25,65,Utawala,2
+43,Male,48,39,36,14,67,Westlands,5
+44,Female,31,39,61,16,13,Nairobi CBD,1
+45,Female,49,39,28,15,79,Roysambu,3
+46,Female,24,39,65,8,85,Nairobi CBD,1
+47,Female,50,40,55,7,13,Roysambu,3
+48,Female,27,40,47,7,53,Westlands,5
+49,Female,29,40,42,11,8,Roysambu,3
+50,Female,31,40,42,7,88,Nairobi CBD,1
+51,Female,49,42,52,25,36,Westlands,5
+52,Male,33,42,60,23,88,Nairobi CBD,1
+53,Female,31,43,54,17,38,Nairobi CBD,1
+54,Male,59,43,60,21,28,Roysambu,3
+55,Female,50,43,45,8,56,Roysambu,3
+56,Male,47,43,41,9,11,Roysambu,3
+57,Female,51,44,50,12,110,Kilimani,4
+58,Male,69,44,46,27,107,Kilimani,4
+59,Female,27,46,51,17,11,Nairobi CBD,1
+60,Male,53,46,46,23,24,Kilimani,4
+61,Male,70,46,56,13,38,Kilimani,4
+62,Male,19,46,55,11,61,Roysambu,3
+63,Female,67,47,52,14,98,Westlands,5
+64,Female,54,47,59,16,36,Westlands,5
+65,Male,63,48,51,11,101,Nairobi CBD,1
+66,Male,18,48,59,14,76,Kilimani,4
+67,Female,43,48,50,15,8,Kilimani,4
+68,Female,68,48,48,10,106,Nairobi CBD,1
+69,Male,19,48,59,9,85,Utawala,2
+70,Female,32,48,47,7,70,Kilimani,4
+71,Male,70,49,55,12,19,Roysambu,3
+72,Female,47,49,42,20,7,Kilimani,4
+73,Female,60,50,49,15,1,Nairobi CBD,1
+74,Female,60,50,56,18,101,Kilimani,4
+75,Male,59,54,47,7,75,Westlands,5
+76,Male,26,54,54,13,14,Roysambu,3
+77,Female,45,54,53,25,21,Roysambu,3
+78,Male,40,54,48,25,29,Westlands,5
+79,Female,23,54,52,14,30,Westlands,5
+80,Female,49,54,42,17,98,Utawala,2
+81,Male,57,54,51,14,2,Roysambu,3
+82,Male,38,54,55,10,80,Kilimani,4
+83,Male,67,54,41,20,7,Utawala,2
+84,Female,46,54,44,21,87,Kilimani,4
+85,Female,21,54,57,17,64,Roysambu,3
+86,Male,48,54,46,11,70,Kilimani,4
+87,Female,55,57,58,9,60,Nairobi CBD,1
+88,Female,22,57,55,25,96,Utawala,2
+89,Female,34,58,60,9,3,Nairobi CBD,1
+90,Female,50,58,46,13,94,Kilimani,4
+91,Female,68,59,55,15,66,Nairobi CBD,1
+92,Male,18,59,41,9,14,Roysambu,3
+93,Male,48,60,49,7,9,Roysambu,3
+94,Female,40,60,40,18,108,Nairobi CBD,1
+95,Female,32,60,42,19,39,Westlands,5
+96,Male,24,60,52,22,93,Nairobi CBD,1
+97,Female,47,60,47,6,104,Roysambu,3
+98,Female,27,60,50,9,53,Roysambu,3
+99,Male,48,61,42,18,109,Roysambu,3
+100,Male,20,61,49,25,62,Nairobi CBD,1
+101,Female,23,62,41,12,90,Westlands,5
+102,Female,49,62,48,21,83,Kilimani,4
+103,Male,67,62,59,26,93,Westlands,5
+104,Male,26,62,55,14,83,Kilimani,4
+105,Male,49,62,56,20,80,Nairobi CBD,1
+106,Female,21,62,42,26,32,Nairobi CBD,1
+107,Female,66,63,50,18,14,Roysambu,3
+108,Male,54,63,46,27,28,Roysambu,3
+109,Male,68,63,43,9,71,Utawala,2
+110,Male,66,63,48,8,17,Westlands,5
+111,Male,65,63,52,15,78,Nairobi CBD,1
+112,Female,19,63,54,24,28,Utawala,2
+113,Female,38,64,42,24,74,Kilimani,4
+114,Male,19,64,46,27,73,Roysambu,3
+115,Female,18,65,48,23,62,Westlands,5
+116,Female,19,65,50,12,48,Westlands,5
+117,Female,63,65,43,9,68,Nairobi CBD,1
+118,Female,49,65,59,8,90,Utawala,2
+119,Female,51,67,43,21,102,Westlands,5
+120,Female,50,67,57,27,30,Roysambu,3
+121,Male,27,67,56,20,57,Nairobi CBD,1
+122,Female,38,67,40,26,79,Nairobi CBD,1
+123,Female,40,69,58,20,54,Westlands,5
+124,Male,39,69,91,15,9,Kilimani,4
+125,Female,23,70,29,7,64,Westlands,5
+126,Female,31,70,77,24,79,Westlands,5
+127,Male,43,71,35,26,104,Westlands,5
+128,Male,40,71,95,27,21,Roysambu,3
+129,Male,59,71,11,7,75,Roysambu,3
+130,Male,38,71,75,11,61,Roysambu,3
+131,Male,47,71,9,26,71,Roysambu,3
+132,Male,39,71,75,14,58,Westlands,5
+133,Female,25,72,34,18,49,Utawala,2
+134,Female,31,72,71,7,1,Kilimani,4
+135,Male,20,73,5,18,101,Utawala,2
+136,Female,29,73,88,17,81,Westlands,5
+137,Female,44,73,7,26,21,Roysambu,3
+138,Male,32,73,73,17,89,Roysambu,3
+139,Male,19,74,10,22,34,Roysambu,3
+140,Female,35,74,72,16,25,Utawala,2
+141,Female,57,75,5,19,79,Nairobi CBD,1
+142,Male,32,75,93,18,61,Nairobi CBD,1
+143,Female,28,76,40,26,94,Nairobi CBD,1
+144,Female,32,76,87,11,92,Nairobi CBD,1
+145,Male,25,77,12,22,22,Roysambu,3
+146,Male,28,77,97,14,1,Nairobi CBD,1
+147,Male,48,77,36,10,41,Nairobi CBD,1
+148,Female,32,77,74,20,48,Nairobi CBD,1
+149,Female,34,78,22,26,55,Nairobi CBD,1
+150,Male,34,78,90,10,26,Roysambu,3
+151,Male,43,78,17,14,97,Kilimani,4
+152,Male,39,78,88,19,44,Westlands,5
+153,Female,44,78,20,7,37,Roysambu,3
+154,Female,38,78,76,7,50,Utawala,2
+155,Female,47,78,16,7,10,Nairobi CBD,1
+156,Female,27,78,89,7,105,Nairobi CBD,1
+157,Male,37,78,1,21,109,Roysambu,3
+158,Female,30,78,78,24,82,Nairobi CBD,1
+159,Male,34,78,1,11,87,Utawala,2
+160,Female,30,78,73,12,40,Roysambu,3
+161,Female,56,79,35,17,32,Roysambu,3
+162,Female,29,79,83,26,89,Westlands,5
+163,Male,19,81,5,10,45,Kilimani,4
+164,Female,31,81,93,22,69,Westlands,5
+165,Male,50,85,26,16,32,Kilimani,4
+166,Female,36,85,75,22,39,Roysambu,3
+167,Male,42,86,20,15,51,Utawala,2
+168,Female,33,86,95,26,52,Westlands,5
+169,Female,36,87,27,8,104,Roysambu,3
+170,Male,32,87,63,22,85,Kilimani,4
+171,Male,40,87,13,16,56,Westlands,5
+172,Male,28,87,75,12,92,Nairobi CBD,1
+173,Male,36,87,10,14,2,Utawala,2
+174,Male,36,87,92,27,10,Westlands,5
+175,Female,52,88,13,21,51,Nairobi CBD,1
+176,Female,30,88,86,18,105,Roysambu,3
+177,Male,58,88,15,19,39,Kilimani,4
+178,Male,27,88,69,9,7,Westlands,5
+179,Male,59,93,14,10,7,Utawala,2
+180,Male,35,93,90,17,62,Roysambu,3
+181,Female,37,97,32,6,38,Roysambu,3
+182,Female,32,97,86,20,35,Roysambu,3
+183,Male,46,98,15,15,107,Kilimani,4
+184,Female,29,98,88,17,51,Roysambu,3
+185,Female,41,99,39,21,90,Roysambu,3
+186,Male,30,99,97,19,58,Utawala,2
+187,Female,54,101,24,24,82,Roysambu,3
+188,Male,28,101,68,20,1,Utawala,2
+189,Female,41,103,17,9,33,Kilimani,4
+190,Female,36,103,85,12,77,Roysambu,3
+191,Female,34,103,23,10,32,Roysambu,3
+192,Female,32,103,69,27,109,Westlands,5
+193,Male,33,113,8,14,61,Kilimani,4
+194,Female,38,113,91,9,103,Kilimani,4
+195,Female,47,120,16,16,108,Westlands,5
+196,Female,35,120,79,21,93,Utawala,2
+197,Female,45,126,28,11,37,Kilimani,4
+198,Male,32,126,74,25,45,Westlands,5
+199,Male,32,137,18,13,36,Nairobi CBD,1
+200,Male,30,137,83,27,107,Kilimani,4
