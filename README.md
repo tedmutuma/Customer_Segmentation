@@ -19,7 +19,7 @@ bettering marketing campaigns and maximizing the (ROI) return on investment.
 ## Clone Repository
 Clone this Repository using,
 
-	git clone https://github.com/mayursrt/customer-segmentation-using-k-means.git
+	[git clone https://github.com/tedmutuma/Customer_Segmentation.git)
 
 
 ## Usage
